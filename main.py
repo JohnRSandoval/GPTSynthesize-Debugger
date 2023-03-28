@@ -2,7 +2,7 @@ import os
 import openai
 import json
 import subprocess
-openai.api_key = "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"
+openai.api_key = "{YOUR API KEY}"
 
 
 def get_gpt4_response(messages):
